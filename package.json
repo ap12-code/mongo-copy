@@ -1,0 +1,25 @@
+{
+  "name": "mongo-mover",
+  "version": "1.0.0",
+  "description": "mongodb move",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ap12-code/mongo-moveer.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "ap12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ap12-code/mongo-moveer/issues"
+  },
+  "homepage": "https://github.com/ap12-code/mongo-moveer#readme",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
