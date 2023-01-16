@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ap12-code/mongo-moveer#readme",
   "dependencies": {
-    "mongodb": "^4.13.0"
+    "mongodb": "^4.13.0",
+    "yargs": "^17.6.2"
   }
 }
